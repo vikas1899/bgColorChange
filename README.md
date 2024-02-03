@@ -1,4 +1,4 @@
-# Background Color Changer
+# Background Color Picker
 
 A simple React application built with Vite and styled with Tailwind CSS, allowing users to select and change the background color through a color picker.
 
@@ -23,7 +23,7 @@ Make sure you have Node.js installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vikas1899/bgColorChanger.git
+   git clone https://github.com/vikas1899/bgColorChange.git
    cd bgColorChanger
    ```
 
