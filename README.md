@@ -1,7 +1,8 @@
 # Background Color Picker
 
 A simple React application built with Vite and styled with Tailwind CSS, allowing users to select and change the background color through a color picker.
-
+## Demo 
+[Link](https://bg-color-change-ten.vercel.app/)
 ## Features
 
 - **Color Picker**: Click on the color options to change the background color dynamically.
